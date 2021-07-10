@@ -1,5 +1,5 @@
 # counter.github.io
 A javascript counter
 
-#Hosted Website
+## Hosted Website
 https://js-count-task.netlify.app/
